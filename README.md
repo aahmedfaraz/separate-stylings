@@ -1,3 +1,3 @@
 # Separate Stylings
 
-Live site on [saim_stylings.surge.sh](saim_stylings.surge.sh)
+Live site on [https://saim_stylings.surge.sh/](https://saim_stylings.surge.sh/)
